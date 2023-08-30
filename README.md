@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jongwon%20Choi&fontSize=90)
+
 ## 🔎 Data Engineer
 <h3 align="center"> 💡 Everything is Data</h3>
 <h3 align="center">모든 것은 곧 데이터이다.</h3>
