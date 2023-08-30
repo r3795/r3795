@@ -1,5 +1,5 @@
 ## 🔎 Data Engineer
-<h3 align="center"> 💡 Everything is data</h3>
+<h3 align="center"> 💡 Everything is Data</h3>
 <h3 align="center">모든 것은 곧 데이터이다.</h3>
 
 <h3 align="center">🛠 Main Stack</h3>
