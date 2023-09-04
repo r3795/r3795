@@ -4,7 +4,7 @@
 <h3 align="center"> 💡 Everything is Data</h3>
 <h3 align="center">모든 것은 곧 데이터이다.</h3>
 
-<h3 align="center">🛠 Main Stack</h3>
+<h3 align="center">🛠Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp 
@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
   <br>
-</p>
-
-<h3 align="center">🔭 Sub Stack</h3>
-
-<p align="center">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp 
